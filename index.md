@@ -36,7 +36,7 @@ I have focused on human-computer interaction, smart flexible clothing, and gener
 
 ---
 
-## News and Updates
+<!-- ## News and Updates
 
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
 - **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
@@ -45,4 +45,4 @@ I have focused on human-computer interaction, smart flexible clothing, and gener
 - **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
 - **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
 
-<br>
+<br> -->
