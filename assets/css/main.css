@@ -261,24 +261,18 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
 
 /* Update in 28 Aug 2023 by Hanlin */
 .wide {
-    width: 90% !important;
+    width: 100% !important;
   }
 /* #main article{margin:0 auto;width:100%;display:inline;float:left;width:90%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:2em;} */
 
 #main article {
   margin: 0 auto;
-  width: 90%; /* 默认宽度 */
-  max-width: 1200px; /* 限制最大宽度 */
-  display: block;
-  float: none;
-  margin-bottom: 2em;
+  width: 100%; /* 让文章部分占满父容器宽度 */
+  display: block; /* 替换 inline，使布局更规范 */
+  float: none; /* 取消浮动，避免布局问题 */
+  margin-bottom: 2em; /* 保留底部间距 */
 }
 
-@media (max-width: 768px) {
-  #main article {
-    width: 95%; /* 在小屏幕设备上更宽松 */
-  }
-}
 
 
 #index{margin:0 auto;width:100%;display:inline;float:left;width:90%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:2em;}#index article h2{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;margin-bottom:0;}
