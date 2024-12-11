@@ -8,10 +8,8 @@ title: Publications
 
 <!-- ## Conference Paper -->
 
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<div>
+<img src="images/SuDA_teaser.png">
 </div>
 
 - [SuDA: Support-based Domain Adaptation for Sim2Real Motion Capture with Flexible Sensors](https://www.researchgate.net/publication/384046364/)
@@ -21,6 +19,10 @@ title: Publications
 <br>Vienna, Austria, July 21-27, 2024.<br>
 
 ---
+
+<div>
+<img src="images/nips_teaser.png">
+</div>
 
 - [Self-Adaptive Motion Tracking Against On-body Displacement of Flexible Sensors, NeurIPS 2023.](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>Chengxu Zuo, **Jiawei Fang**, Shihui Guo~, Yipeng Qin
 <br>Advances in Neural Information Processing Systems 36, NeurIPS2023
@@ -42,7 +44,7 @@ title: Publications
 ---
 <!-- FIP -->
 <div>
-<img src="/images/Fig_teaser.jpg">
+<img src="images/Fig_teaser.jpg">
 </div>
 
 - [FIP: Precise Motion Capture with Flexible Sensors and IMU Fusion on Daily Wear Garment](https://arxiv.org/abs/2405.17837)<br>Qiuyu Lu†, **Jiawei Fang**†, Zhihao Yao*, Yue Yang, Haipeng Mi, Lining Yao~
@@ -54,7 +56,7 @@ title: Publications
 ---
 <!-- GDT -->
 <div>
-<img src="/GDT_architecture/cat.jpg">
+<img src="images/GDT_architecture.jpg">
 </div>
 
 - [Enabling Generative Design Tools with LLM Agents for Building Novel Devices: A Case Study on Fluidic Computation Interfaces](https://arxiv.org/abs/2405.17837)<br>Qiuyu Lu†, **Jiawei Fang**†, Zhihao Yao*, Yue Yang, Haipeng Mi, Lining Yao~
