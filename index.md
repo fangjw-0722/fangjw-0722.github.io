@@ -42,7 +42,12 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## News and Updates
 
-- **September 2024**：Two first-author paper were submitted to [CHI2024](https://chi2024.acm.org/). See you in Tokyo!
+- **September 2024**：Serve as a volunteer in China's top VR conference [ChinaVR](https://chinavr2024.xmu.edu.cn/).
+
+- **September 2024**：Two first-author papers were submitted to [CHI2024](https://chi2024.acm.org/). See you in Tokyo!
+
+
+- **August 2024**：Serve as a volunteer in China's top HCI conference [HHME](https://hhme.ccf.org.cn/index1.html).
 
 
 - **July 2024：**Our work has been accepted to [UIST 2024](https://dl.acm.org/doi/abs/10.1145/3672539.3686351) as a poster paper. 
@@ -53,7 +58,6 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - **Janurary 2024：** Start my visiting scholarship at ME Dept in University of California, Berkeley.
 
 - **July 2023：**Our work has been accepted to [NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f3da4165893c2465fd7e8df453c41ffa-Abstract-Conference.html) as a poster paper. 
-
 
 - **April 2023：**Our work has been accepted to [IMWUT 2024](https://dl.acm.org/doi/abs/10.1145/3580832) as a poster paper. 
 

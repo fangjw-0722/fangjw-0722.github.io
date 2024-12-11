@@ -12,7 +12,7 @@ title: Publications
 <img src="/images/SuDA_teaser.png">
 </div>
 
-- [SuDA: Support-based Domain Adaptation for Sim2Real Motion Capture with Flexible Sensors](https://www.researchgate.net/publication/384046364/)
+- [SuDA: Support-based Domain Adaptation for Sim2Real Motion Capture with Flexible Sensors](https://openreview.net/forum?id=ENNGAY5uKC)
 <br>
 **Jiawei Fang**, Haishan Song, Chengxu Zuo, Xiaowei Chen, Shihui Guo, Yipeng Qin~
 <br>Forty-first International Conference on Machine Learning, ICML 2024
