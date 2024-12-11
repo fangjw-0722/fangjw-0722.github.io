@@ -30,13 +30,17 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Experience
 
-- University of California, Berkeley (20204.9 - Present), mentored by [Prof. Lining Yao](https://morphingmatter.org/people)
+- University of California, Berkeley (20204.9 - Present), Mechanical Engineering,
+<br>mentored by [Prof. Lining Yao](https://morphingmatter.org/people)
 
-- University of Washington (2024.7 - 2024.11), mentored by [Prof. Yiyue Luo](https://yyueluo.com/index.html)
+- University of Washington (2024.7 - 2024.11), ECE
+<br>mentored by [Prof. Yiyue Luo](https://yyueluo.com/index.html)
 
-- Carnegie Mellon University (2023.5 - 2023.12), mentored by [Prof. Lining Yao](https://morphingmatter.org/people)
+- Carnegie Mellon University (2023.5 - 2023.12), CS, HCII
+<br>mentored by [Prof. Lining Yao](https://morphingmatter.org/people)
 
-- Humanplus Lab (2021.5 - Present), mentored by [Prof. Shihui Guo](https://www.humanplus.xyz/)
+- Humanplus Lab (2021.5 - Present), 
+<br>mentored by [Prof. Shihui Guo](https://www.humanplus.xyz/)
 
 ---
 
