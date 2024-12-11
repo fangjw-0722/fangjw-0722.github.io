@@ -7,7 +7,6 @@ layout: page
 <img src="/images/Teaser.jpg" class="floatpic">
 
 
-
 Here is **Jiawei Fang (方家卫)**.<br>
 
 I have focused on human-computer interaction, smart flexible clothing, and generative AI during my research career. Previously, I was a research intern at Carnegie Mellon University in the Computer Science Department, mentored by [Prof. Lining Yao](https://morphingmatter.org/people) and University of Washington, mentored by [Prof. Yiyue Luo](https://yyueluo.com/index.html). I am currently working as a visiting scholar at UC Berkeley in the Mechanical Engineering Department thanks to Prof. Yao’s support.
@@ -39,13 +38,11 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - Humanplus Lab (2021.5 - Present), mentored by [Prof. Shihui Guo](https://www.humanplus.xyz/)
 
-
 ---
 
 ## News and Updates
 
-- **June 2024**：Two first-author paper were submitted[CHI2024](https://chi2024.acm.org/). See you in Tokyo!
-
+- **June 2024**：Two first-author paper were submitted to [CHI2024](https://chi2024.acm.org/). See you in Tokyo!
 
 - **April 2024：**Our work *SuDA* has been accepted to [ICML 2024](https://icml.cc/Conferences/2024) as a poster paper. See you in Austria!
 
@@ -55,14 +52,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - **April 2024：**Our work has been accepted to [IMWUT 2024](https://icml.cc/Conferences/2024) as a poster paper. See you in Austria!
 
-
-- **April 2024：** Start my internship in Morphing Matter Lab.
+- **April 2024：** Start my internship at [Morphing Matter Lab](https://morphingmatter.org/).
 <br>
 
 ---
 
-
-<!-- 这里是推特的内容，先注释掉 -->
-
-<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
- -->
