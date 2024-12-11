@@ -12,7 +12,10 @@ title: Publications
 <img src="/images/swimming.JPG">
 <img src="/images/surfing1.JPG">
 </div>
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
+- [SuDA: Support-based Domain Adaptation for Sim2Real Motion Capture with Flexible Sensors](https://www.researchgate.net/publication/384046364/)<br>
+**Jiawei Fang**†, Haishan Song, Chengxu Zuo, Xiaowei Chen, Shihui Guo, Yipeng Qin~
+<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.
+<br>Barcelona, Spain. August, 2024.<br>
 
 
 
