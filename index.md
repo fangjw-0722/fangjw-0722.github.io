@@ -4,11 +4,13 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://caihanlin.com/Teaser.jpg" class="floatpic">
+
+
 
 Here is **Jiawei Fang (方家卫)**.<br>
 
-I have focused on human-computer interaction, smart flexible clothing, and generative AI during my research career. Previously, I was a research intern at Carnegie Mellon University in the Computer Science Department, mentored by [Prof. Lining Yao](https://morphingmatter.org/people) and University of Washington, mentored by Prof.[Prof. Yiyue Luo](https://yyueluo.com/index.html). I am currently working as a visiting scholar at UC Berkeley in the Mechanical Engineering Department thanks to Prof. Yao’s support.
+I have focused on human-computer interaction, smart flexible clothing, and generative AI during my research career. Previously, I was a research intern at Carnegie Mellon University in the Computer Science Department, mentored by [Prof. Lining Yao](https://morphingmatter.org/people) and University of Washington, mentored by [Prof. Yiyue Luo](https://yyueluo.com/index.html). I am currently working as a visiting scholar at UC Berkeley in the Mechanical Engineering Department thanks to Prof. Yao’s support.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - jiaweif[at]stu.xmu.edu.com 
 <br>
@@ -20,12 +22,10 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!</font>**
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
+- [Intersction between AI and HCI](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
 - Human Computer Interaction
 - Intelligent Wearables
 - Generative AI
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
 
@@ -37,7 +37,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 - Carnegie Mellon University (2023.5 - 2023.12), mentored by [Prof. Lining Yao](https://morphingmatter.org/people)
 
-- Humanplus Lab (20204.9 - Present), mentored by [Prof. Shihui Guo](https://www.humanplus.xyz/)
+- Humanplus Lab (2021.5 - Present), mentored by [Prof. Shihui Guo](https://www.humanplus.xyz/)
 
 
 ---
@@ -47,10 +47,16 @@ My current research focuses on practical problems that artificial intelligence f
 - **June 2024**：Two first-author paper were submitted[CHI2024](https://chi2024.acm.org/). See you in Tokyo!
 
 
-- **April 2024：**Our work *SuDA* has been accepted to [ICML 2024](https://icml.cc/Conferences/2024) as a poster paper. See you in Japan!
+- **April 2024：**Our work *SuDA* has been accepted to [ICML 2024](https://icml.cc/Conferences/2024) as a poster paper. See you in Austria!
+
+- **April 2024：**Our work has been accepted to [UIST 2024](https://icml.cc/Conferences/2024) as a poster paper. See you in Austria!
+
+- **April 2024：**Our work has been accepted to [NeurIPS 2024](https://icml.cc/Conferences/2024) as a poster paper. See you in Austria!
+
+- **April 2024：**Our work has been accepted to [IMWUT 2024](https://icml.cc/Conferences/2024) as a poster paper. See you in Austria!
 
 
-
+- **April 2024：** Start my internship in Morphing Matter Lab.
 <br>
 
 ---
