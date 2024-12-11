@@ -33,7 +33,7 @@ title: Publications
 <!-- DISPAD -->
 
 <div>
-<img src="/images/cat.JPG">
+<img src="/images/dispad_teaser.png">
 </div>
 
 - [Dispad: Flexible on-body displacement of fabric sensors for robust joint-motion tracking](https://dl.acm.org/doi/abs/10.1145/3580832)<br>Xiaowei Chen, Xiao Jiang, **Jiawei Fang**, Shihui Guo~, Juncong Lin, Minghong Liao, Guoliang Luo, Hongbo Fu
@@ -67,7 +67,7 @@ title: Publications
 ---
 <!-- GDT：Poster-->
 <div>
-<img src="/images/cat.JPG">
+<img src="/images/GDT_Walkthrough.jpg">
 </div>
 
 - [Large Language Model Agents Enabled Generative Design of Fluidic Computation Interfaces](https://dl.acm.org/doi/abs/10.1145/3672539.3686351)<br>Qiuyu Lu†, **Jiawei Fang**†, Zhihao Yao*, Yue Yang, Haipeng Mi, Lining Yao~
