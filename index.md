@@ -42,17 +42,22 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## News and Updates
 
-- **June 2024**：Two first-author paper were submitted to [CHI2024](https://chi2024.acm.org/). See you in Tokyo!
+- **September 2024**：Two first-author paper were submitted to [CHI2024](https://chi2024.acm.org/). See you in Tokyo!
 
-- **April 2024：**Our work *SuDA* has been accepted to [ICML 2024](https://icml.cc/Conferences/2024) as a poster paper. See you in Austria!
 
-- **April 2024：**Our work has been accepted to [UIST 2024](https://icml.cc/Conferences/2024) as a poster paper. See you in Austria!
+- **July 2024：**Our work has been accepted to [UIST 2024](https://dl.acm.org/doi/abs/10.1145/3672539.3686351) as a poster paper. 
 
-- **April 2024：**Our work has been accepted to [NeurIPS 2024](https://icml.cc/Conferences/2024) as a poster paper. See you in Austria!
 
-- **April 2024：**Our work has been accepted to [IMWUT 2024](https://icml.cc/Conferences/2024) as a poster paper. See you in Austria!
+- **April 2024：**Our work *SuDA* has been accepted to [ICML 2024](https://arxiv.org/abs/2405.16152) as a poster paper. 
 
-- **April 2024：** Start my internship at [Morphing Matter Lab](https://morphingmatter.org/).
+- **Janurary 2024：** Start my visiting scholarship at ME Dept in University of California, Berkeley.
+
+- **July 2023：**Our work has been accepted to [NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f3da4165893c2465fd7e8df453c41ffa-Abstract-Conference.html) as a poster paper. 
+
+
+- **April 2023：**Our work has been accepted to [IMWUT 2024](https://dl.acm.org/doi/abs/10.1145/3580832) as a poster paper. 
+
+- **April 2023：** Start my internship at [Morphing Matter Lab](https://morphingmatter.org/) in Carnegie Mellon University.
 <br>
 
 ---
