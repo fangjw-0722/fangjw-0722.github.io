@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/Teaser.jpg" class="floatpic">
+<img src="/images/Teaser.jpg" class="floatpic">
 
 
 
