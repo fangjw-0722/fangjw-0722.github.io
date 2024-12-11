@@ -28,6 +28,7 @@ title: Publications
 <br>
 
 ---
+<!-- DISPAD -->
 
 <div>
 <img src="/images/cat.JPG">
@@ -39,7 +40,20 @@ title: Publications
 <br>
 
 ---
+<!-- FIP -->
+<div>
+<img src="/images/cat.JPG">
+</div>
 
+- [FIP: Precise Motion Capture with Flexible Sensors and IMU Fusion on Daily Wear Garment](https://arxiv.org/abs/2405.17837)<br>Qiuyu Lu†, **Jiawei Fang**†, Zhihao Yao*, Yue Yang, Haipeng Mi, Lining Yao~
+<br>Under Review of CHI2024
+<br>Tokyo, Japan. June, 2024.
+<br>
+
+
+
+---
+<!-- GDT -->
 <div>
 <img src="/images/cat.JPG">
 </div>
@@ -50,7 +64,7 @@ title: Publications
 <br>
 
 ---
-
+<!-- GDT：Poster-->
 <div>
 <img src="/images/cat.JPG">
 </div>
@@ -59,3 +73,5 @@ title: Publications
 <br>UIST Adjunct '24: Adjunct Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology, UIST 2024 Poster
 <br>Pittsburgh, America. June, 2024.
 <br>
+
+
