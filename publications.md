@@ -42,7 +42,7 @@ title: Publications
 ---
 <!-- FIP -->
 <div>
-<img src="/images/cat.JPG">
+<img src="/images/Fig_teaser.jpg">
 </div>
 
 - [FIP: Precise Motion Capture with Flexible Sensors and IMU Fusion on Daily Wear Garment](https://arxiv.org/abs/2405.17837)<br>Qiuyu Lu†, **Jiawei Fang**†, Zhihao Yao*, Yue Yang, Haipeng Mi, Lining Yao~
@@ -51,11 +51,10 @@ title: Publications
 <br>
 
 
-
 ---
 <!-- GDT -->
 <div>
-<img src="/images/cat.JPG">
+<img src="/GDT_architecture/cat.jpg">
 </div>
 
 - [Enabling Generative Design Tools with LLM Agents for Building Novel Devices: A Case Study on Fluidic Computation Interfaces](https://arxiv.org/abs/2405.17837)<br>Qiuyu Lu†, **Jiawei Fang**†, Zhihao Yao*, Yue Yang, Haipeng Mi, Lining Yao~
