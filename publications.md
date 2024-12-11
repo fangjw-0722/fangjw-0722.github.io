@@ -6,7 +6,8 @@ title: Publications
 
 > (†: equal contribution, ~: corresponding author)
 
-## Conference Paper
+<!-- ## Conference Paper -->
+
 <div class="third">
 <img src="/images/swimming2.JPG">
 <img src="/images/swimming.JPG">
@@ -18,6 +19,7 @@ title: Publications
 **Jiawei Fang**, Haishan Song, Chengxu Zuo, Xiaowei Chen, Shihui Guo, Yipeng Qin~
 <br>Forty-first International Conference on Machine Learning, ICML 2024
 <br>Vienna, Austria, July 21-27, 2024.<br>
+
 ---
 
 - [Self-Adaptive Motion Tracking Against On-body Displacement of Flexible Sensors, NeurIPS 2023.](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>Chengxu Zuo, **Jiawei Fang**, Shihui Guo~, Yipeng Qin
@@ -26,14 +28,16 @@ title: Publications
 <br>
 
 ---
+
 <div>
 <img src="/images/cat.JPG">
 </div>
 
-- [Dispad: Flexible on-body displacement of fabric sensors for robust joint-motion tracking](https://dl.acm.org/doi/abs/10.1145/3580832)<br>Xiaowei Chen, Xiao Jiang, **Jiawei Fang**, Shihui Guo, Juncong Lin, Minghong Liao, Guoliang Luo, Hongbo Fu
+- [Dispad: Flexible on-body displacement of fabric sensors for robust joint-motion tracking](https://dl.acm.org/doi/abs/10.1145/3580832)<br>Xiaowei Chen, Xiao Jiang, **Jiawei Fang**, Shihui Guo~, Juncong Lin, Minghong Liao, Guoliang Luo, Hongbo Fu
 <br>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, IMWUT2023
 <br>Tokyo, Japan. June, 2024.
 <br>
+
 ---
 
 <div>
@@ -44,6 +48,8 @@ title: Publications
 <br>Under Review of CHI2024
 <br>Tokyo, Japan. June, 2024.
 <br>
+
+---
 
 <div>
 <img src="/images/cat.JPG">
