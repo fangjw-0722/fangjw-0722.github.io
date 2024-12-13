@@ -21,7 +21,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!</font>**
 
-- [Intersction between AI and HCI](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
+- [Intersction between AI and HCI](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=AI+and+HCI&btnG=)
 - Human Computer Interaction
 - Intelligent Wearables
 - Generative AI
@@ -30,7 +30,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Experience
 
-- University of California, Berkeley (20204.9 - Present), Mechanical Engineering,
+- University of California, Berkeley (2024.9 - Present), Mechanical Engineering,
 <br>mentored by [Prof. Lining Yao](https://morphingmatter.org/people)
 
 - University of Washington (2024.7 - 2024.11), ECE
@@ -48,7 +48,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - **September 2024**：Serve as a volunteer in China's top VR conference [ChinaVR](https://chinavr2024.xmu.edu.cn/).
 
-- **September 2024**：Two first-author papers were submitted to [CHI2024](https://chi2024.acm.org/). See you in Tokyo!
+- **September 2024**：Two first-author papers were submitted to [CHI 2024](https://chi2024.acm.org/). See you in Tokyo!
 
 
 - **August 2024**：Serve as a volunteer in China's top HCI conference [HHME](https://hhme.ccf.org.cn/index1.html).
