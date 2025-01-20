@@ -45,6 +45,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## News and Updates
+- **Janurary 2025**：My first-author paper FIP (Flex Inertial Poser) was accepted to [CHI 2024](https://chi2024.acm.org/) with minor revision. See you in Tokyo!
 
 - **September 2024**：Serve as a volunteer in China's top VR conference [ChinaVR](https://chinavr2024.xmu.edu.cn/).
 
