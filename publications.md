@@ -8,10 +8,6 @@ title: Publications
 
 
 
-
-
-
-
 <!-- ## Conference Paper -->
 
 <div>
@@ -43,7 +39,6 @@ title: Publications
 
 - [Dispad: Flexible on-body displacement of fabric sensors for robust joint-motion tracking](https://dl.acm.org/doi/abs/10.1145/3580832)<br>Xiaowei Chen, Xiao Jiang, **Jiawei Fang**, Shihui Guo~, Juncong Lin, Minghong Liao, Guoliang Luo, Hongbo Fu
 <br>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, IMWUT2023
-<br>Tokyo, Japan. June, 2024.
 <br>
 
 ---
@@ -65,7 +60,7 @@ title: Publications
 </div>
 
 - [Enabling Generative Design Tools with LLM Agents for Building Novel Devices: A Case Study on Fluidic Computation Interfaces](https://arxiv.org/abs/2405.17837)<br>**Jiawei Fang**†, Qiuyu Lu†, Zhihao Yao†, Yue Yang, Haipeng Mi, Lining Yao~
-<br>Under Review of CHI2024
+<br>Arxiv
 <br>
 
 ---
