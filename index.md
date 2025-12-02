@@ -1,6 +1,12 @@
 ---
 layout: page
 ---
+
+<div class="about-layout">
+
+  <!-- ================= 左侧主内容 ================= -->
+  <div class="about-main">
+
 # About Me
 
 <img src="/images/Teaser.jpg" class="floatpic">
@@ -13,40 +19,18 @@ If you are interested in any aspect of me, I am always open to discussions and c
 <br>
 
 ---
-<aside class="about-sidebar">
-    <h3>Research Vision</h3>
-
-<p>
-My long-term goal is to build <b>closed-loop embodied intelligence systems</b>
-that integrate sensing, physical simulation, and generative AI.
-</p>
-
-<ul>
-  <li>Wearable & on-body sensing</li>
-  <li>Simulation-in-the-loop co-design</li>
-  <li>LLM agents for generative design</li>
-  <li>Embodied AI & robotics</li>
-</ul>
-
-<p>
-I aim to bridge <b>AI, HCI, and Robotics</b> to create scalable,
-deployable physical intelligence systems.
-</p>
-</aside>
-
-</div>
 
 ## Research Experience
 
-- Massachusetts Institute of Technology (2025.6 - Present), CSAIL,
+- Massachusetts Institute of Technology (2025.6 - Present), CSAIL,  
   <br>mentored by [Prof. Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech)
-- the University of California, Berkeley (2024.9 - 2025.6), Mechanical Engineering,
+- the University of California, Berkeley (2024.9 - 2025.6), Mechanical Engineering,  
   <br>mentored by [Prof. Lining Yao](https://morphingmatter.org/people)
-- the University of Washington (2024.7 - 2024.11), ECE
+- the University of Washington (2024.7 - 2024.11), ECE  
   <br>mentored by [Prof. Yiyue Luo](https://yyueluo.com/index.html)
-- Carnegie Mellon University (2023.5 - 2023.12), CS, HCII
+- Carnegie Mellon University (2023.5 - 2023.12), CS, HCII  
   <br>mentored by [Prof. Lining Yao](https://morphingmatter.org/people)
-- Humanplus Lab (2021.5 - Present),
+- Humanplus Lab (2021.5 - Present),  
   <br>mentored by [Prof. Shihui Guo](https://www.humanplus.xyz/)
 
 ---
@@ -63,6 +47,29 @@ deployable physical intelligence systems.
 - **July 2023：**Our work has been accepted to [NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f3da4165893c2465fd7e8df453c41ffa-Abstract-Conference.html) as a poster paper.
 - **April 2023：**Our work has been accepted to [IMWUT 2024](https://dl.acm.org/doi/abs/10.1145/3580832) as a poster paper.
 - **April 2023：** Start my internship at [Morphing Matter Lab](https://morphingmatter.org/) in Carnegie Mellon University.
-  <br>
 
----
+  </div>
+
+  <!-- ================= 右侧 Research Vision ================= -->
+  <aside class="about-sidebar">
+    <h3>Research Vision</h3>
+
+    <p>
+    My long-term goal is to build <b>closed-loop embodied intelligence systems</b>
+    that integrate sensing, physical simulation, and generative AI.
+    </p>
+
+    <ul>
+      <li>Wearable & on-body sensing</li>
+      <li>Simulation-in-the-loop co-design</li>
+      <li>LLM agents for generative design</li>
+      <li>Embodied AI & robotics</li>
+    </ul>
+
+    <p>
+    I aim to bridge <b>AI, HCI, and Robotics</b> to create scalable,
+    deployable physical intelligence systems.
+    </p>
+  </aside>
+
+</div>
