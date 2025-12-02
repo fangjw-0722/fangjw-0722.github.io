@@ -9,7 +9,7 @@ layout: page
 
 Here is **Jiawei Fang (方家卫)**.<br>
 
-I have focused on human-computer interaction, smart flexible clothing, and generative AI during my research career. Previously, I was a research intern at Carnegie Mellon University in the Computer Science Department, mentored by [Prof. Lining Yao](https://morphingmatter.org/people) and University of Washington, mentored by [Prof. Yiyue Luo](https://yyueluo.com/index.html). I am currently working as a visiting scholar at UC Berkeley in the Mechanical Engineering Department thanks to Prof. Yao’s support.
+I have focused on human-computer interaction, smart flexible clothing, and generative AI during my research career. Previously, I was a research intern at Carnegie Mellon University in the Computer Science Department, mentored by [Prof. Lining Yao](https://morphingmatter.org/people) and University of Washington, mentored by [Prof. Yiyue Luo](https://yyueluo.com/index.html). I was previously working as a visiting scholar at UC Berkeley in the Mechanical Engineering Department thanks to Prof. Yao’s support.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - jiaweif[at]stu.xmu.edu.com 
 <br>
@@ -19,21 +19,23 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!</font>**
+**<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission. If you have any information, please contact me!</font>**
 
 - [Intersction between AI and HCI](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=AI+and+HCI&btnG=)
-- Human Computer Interaction
-- Intelligent Wearables
+- Robot Co-Design
+- LLM Application
 - Generative AI
 
 ---
 
 ## Research Experience
+- Massachusetts Institute of Technology (2025.6 - Present), CSAIL,
+<br>mentored by [Prof. Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech)
 
-- University of California, Berkeley (2024.9 - Present), Mechanical Engineering,
+- the University of California, Berkeley (2024.9 - 2025.6), Mechanical Engineering,
 <br>mentored by [Prof. Lining Yao](https://morphingmatter.org/people)
 
-- University of Washington (2024.7 - 2024.11), ECE
+- the University of Washington (2024.7 - 2024.11), ECE
 <br>mentored by [Prof. Yiyue Luo](https://yyueluo.com/index.html)
 
 - Carnegie Mellon University (2023.5 - 2023.12), CS, HCII
@@ -45,6 +47,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## News and Updates
+
 - **Janurary 2025**：My first-author paper FIP (Flex Inertial Poser) was accepted to [CHI 2024](https://chi2024.acm.org/) with minor revision. See you in Tokyo!
 
 - **September 2024**：Serve as a volunteer in China's top VR conference [ChinaVR](https://chinavr2024.xmu.edu.cn/).
