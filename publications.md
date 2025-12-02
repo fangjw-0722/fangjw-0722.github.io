@@ -6,6 +6,12 @@ title: Publications
 
 > (†: equal contribution, ~: corresponding author)
 
+
+
+
+
+
+
 <!-- ## Conference Paper -->
 
 <div>
@@ -47,7 +53,7 @@ title: Publications
 </div>
 
 - [FIP: Precise Motion Capture with Flexible Sensors and IMU Fusion on Daily Wear Garment](https://fangjw-0722.github.io/file/FIP.pdf)<br>**Jiawei Fang**†, Ruonan Zheng†, Yuan Yao, Xiaoxia Gao, Shihui Guo~, Yiyue Luo
-<br>Under Review of CHI2024
+<br>CHI2025
 
 <br>
 
